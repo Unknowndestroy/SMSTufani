@@ -2,6 +2,8 @@
 SMS Bomber working for türkiye  /  Türkiye için çalışan SMS Bomber
 
 run these 3 commands on terminal before running it.
+
+
 pip install urllib3
 
 
