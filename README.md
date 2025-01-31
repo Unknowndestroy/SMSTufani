@@ -3,8 +3,14 @@ SMS Bomber working for türkiye  /  Türkiye için çalışan SMS Bomber
 
 run these 3 commands on terminal before running it.
 pip install urllib3
+
+
 pip install six
+
+
 pip install requests
+
+
 
 and if you're on termux, install Source version. not this one. 
 
