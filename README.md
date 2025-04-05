@@ -1,3 +1,6 @@
+# END OF SUPPORT : 5.04.2025 // 18:10
+
+
 # SMSTufani
 SMS Bomber working for türkiye  /  Türkiye için çalışan SMS Bomber
 
