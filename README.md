@@ -4,31 +4,24 @@
 # SMSTufani
 SMS Bomber working for türkiye  /  Türkiye için çalışan SMS Bomber
 
-run these 3 commands on terminal before running it.
+## Installation
+### Installation coming soon.
 
+## Update Log
+### Downloader v1.2
+- Added Language Support
+- Auto Requirements
+- Startup Update System
+- Auto Updater
+- Update System Beta 1.2 Error fix
+- Enhanced GUI
+- Fixed Downloader GUI
+- Added Uncloseable System to Updater
+- Changed "Downloader.py" to "main.pyw" for easier usage.
+- Fixed Update on Startup error
 
-pip install urllib3
+## Warning
+### Unzip the zip file before running it.
 
-
-pip install six
-
-
-pip install requests
-
-
-
-and if you're on termux, install Source version. not this one. 
-
-(I SAW SOMEONE SELLING AN SMSBOMBER THAT IS SLOWER THAN THIS FOR 5000₺ LOL)
-
-
-The installer file is turkish. It will give you an choice to select language when installed.
-
-Run main.pyw downloaded to run it again. This file will download bunch of files. Run main.pyw for start. Run Downloader.py to download.
-
-File's will download to the same folder as the folder where you put downloader.py
-
-I am not responsible for anything done for file, disclaimers are in the start, if you dont open "Skip Agreements", you can read the agreements. Its fast, so freeze it or read it on IDLE (python editor).
-
-
-WARNING: UNZIP THE ZIP BEFORE EXECUTING OR IT CANT INSTALL THE FILES
+## Termux Support
+### If you're on termux, install Source version. not this one, and run the version compatible to your language. (e.g: TR: python smstufanitr.py EN: python smstufanien.py)
