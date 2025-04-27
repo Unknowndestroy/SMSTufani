@@ -15,7 +15,6 @@ Bu içerik, yalnızca bilgilendirme niteliğinde sunulmaktadır ve hiçbir şeki
 
 # ENGLISH DESCRIPTION // İNGİLİZCE AÇIKLAMA
 
-### END OF SUPPORT : 10.04.2025 // 00:33
 
 ## Installation
 ### Just run the file.
@@ -41,7 +40,6 @@ Bu içerik, yalnızca bilgilendirme niteliğinde sunulmaktadır ve hiçbir şeki
 
 # TURKISH DESCRIPTION // TÜRKÇE AÇIKLAMA
 
-### DESTEK BİTİŞ TARİHİ : 10.04.2025 // 00:33
 
 ## Kurulum
 ### Dosyayı çalıştırmanız yeterlidir.
