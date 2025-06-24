@@ -63,3 +63,11 @@ Bu içerik, yalnızca bilgilendirme niteliğinde sunulmaktadır ve hiçbir şeki
 ## Termux Desteği
 ### Eğer Termux kullanıyorsanız, bu versiyon yerine Source sürümünü yükleyin ve dilinize uygun olan versiyonu çalıştırın.  
 ### (örneğin: TR: python smstufanitr.py  EN: python smstufanien.py)
+
+## License
+
+This project is licensed under the UDLPL-v1.0 License – see the [LICENSE.md](./LICENSE.md) file for details.
+
+🔒 This software is strictly for personal, non-commercial use only.  
+🛑 Modified versions must **NOT** be distributed.  
+💥 Any misuse will result in termination of license rights.
