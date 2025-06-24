@@ -1,3 +1,5 @@
+# WARNING // UYARI
+### END OF SUPPORT 
 # SMSTufanı 
 SMS Bomber working for Türkiye // Türkiye için çalışan SMS Bomber 
 
